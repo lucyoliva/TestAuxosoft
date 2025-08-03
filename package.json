@@ -1,0 +1,25 @@
+{
+  "name": "testauxosoft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucyoliva/TestAuxosoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucyoliva/TestAuxosoft/issues"
+  },
+  "homepage": "https://github.com/lucyoliva/TestAuxosoft#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.1.0"
+  }
+}
